@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 0e7f36f0c5fbf6b41b9f790c739d953b
+  productGUID: 1fc510e5f71794b4fa0451ca5110692c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -837,12 +837,12 @@ PlayerSettings:
     Game_Performance: 0
     Hub: 0
     Purchasing: 0
-    UNet: 0
+    UNet: 1
     Unity_Ads: 0
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: aa8a500b-1bcb-42c5-ac45-ac8e48b8eb20
-  projectName: Point and click
+  cloudProjectId: ceb955c8-fc17-419c-9dc5-b6e68e809b2d
+  projectName: Point and click (1)
   organizationId: unity_zry5u1dpas2p0g
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
